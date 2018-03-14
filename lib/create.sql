@@ -1,4 +1,4 @@
-CREATE TABLE students
+CREATE TABLE bear
     -- (id INTEGER PRIMARY KEY,
     (name TEXT
     -- grade INTEGER,
