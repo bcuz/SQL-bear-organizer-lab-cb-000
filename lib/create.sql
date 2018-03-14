@@ -1,6 +1,6 @@
 CREATE TABLE students
     -- (id INTEGER PRIMARY KEY,
-    (name TEXT,
+    (name TEXT
     -- grade INTEGER,
     -- gpa FLOAT,
     -- tardies INTEGER
